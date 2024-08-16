@@ -17,8 +17,8 @@ body{
   margin:14px 10px;
   border-radius:5px;
   background-color:rgb(250, 246, 239);
-  width:500px;
-  height:400px;
+  width:400px;
+  height:300px;
  box-shadow:0 4px 8px rgb(0,0,0,0.8);
 }
 .btn{
